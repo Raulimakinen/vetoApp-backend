@@ -1,4 +1,4 @@
-const SERVER_URL = "https://your-server-url.com"; // tai esim. "http://10.0.2.2:3000" emulaattorilla
+const SERVER_URL = "https://vetoapp-backend.onrender.com"; 
 
 const loadTasks = async () => {
   try {
